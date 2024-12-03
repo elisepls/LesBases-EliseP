@@ -3,21 +3,21 @@
     static void Main(string[] args)
     {
         Article[] articles = new Article[3];
-        articles[0] = new Article("Pomme", 4.50, 250, ArticleType.Type.Alimentaire);
-        articles[1] = new Article("Gomme", 10, 500, ArticleType.Type.Loisir);
-        articles[2] = new Article("T-shirt", 2.75, 60, ArticleType.Type.Habillement);
+        articles[0] = new Article("Pomme", 4.50, 250, Article.Type.Alimentaire);
+        articles[1] = new Article("Gomme", 10, 500, Article.Type.Loisir);
+        articles[2] = new Article("T-shirt", 2.75, 60, Article.Type.Habillement);
 
         // Analyse : Requêtes LINQ de base
-        var alimentaires = articles.Where(a => a.type == TypeArticle.Alimentaire).ToList();
+        var alimentaires = articles.Where(a => a.type == Article.Type.Alimentaire).ToList();
         var articlesTries = articles.OrderByDescending(a => a.prix).ToList();
         var stockTotal = articles.Sum(a => a.quantite);
 
         // Filtrage avec OfType
         var mixedList = new List<object> {
-            new Article("Pomme", 4.50, 250, ArticleType.Alimentaire),
+            new Article("Pomme", 4.50, 250, Article.Type.Alimentaire),
             "Some string",
             123,
-            new Article("Gomme", 10, 500, ArticleType.Loisir)
+            new Article("Gomme", 10, 500, Article.Type.Loisir)
         };
         var articlesTypes = mixedList.OfType<Article>().ToList();
 

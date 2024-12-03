@@ -1,0 +1,5 @@
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.AssemblyInfoInputs.cache
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.AssemblyInfo.cs
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.csproj.CoreCompileInputs.cache
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.sourcelink.json
