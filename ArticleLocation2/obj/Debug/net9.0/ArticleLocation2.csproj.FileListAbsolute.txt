@@ -1,0 +1,14 @@
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\ArticleLocation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\ArticleLocation2.AssemblyInfoInputs.cache
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\ArticleLocation2.AssemblyInfo.cs
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\ArticleLocation2.csproj.CoreCompileInputs.cache
+C:\Users\elise\git\LesBases\ArticleLocation2\bin\Debug\net9.0\ArticleLocation2.exe
+C:\Users\elise\git\LesBases\ArticleLocation2\bin\Debug\net9.0\ArticleLocation2.deps.json
+C:\Users\elise\git\LesBases\ArticleLocation2\bin\Debug\net9.0\ArticleLocation2.runtimeconfig.json
+C:\Users\elise\git\LesBases\ArticleLocation2\bin\Debug\net9.0\ArticleLocation2.dll
+C:\Users\elise\git\LesBases\ArticleLocation2\bin\Debug\net9.0\ArticleLocation2.pdb
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\ArticleLocation2.dll
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\refint\ArticleLocation2.dll
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\ArticleLocation2.pdb
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\ArticleLocation2.genruntimeconfig.cache
+C:\Users\elise\git\LesBases\ArticleLocation2\obj\Debug\net9.0\ref\ArticleLocation2.dll

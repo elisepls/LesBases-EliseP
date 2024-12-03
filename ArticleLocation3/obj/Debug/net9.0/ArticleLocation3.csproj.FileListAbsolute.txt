@@ -1,0 +1,4 @@
+C:\Users\elise\git\LesBases\ArticleLocation3\obj\Debug\net9.0\ArticleLocation3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elise\git\LesBases\ArticleLocation3\obj\Debug\net9.0\ArticleLocation3.AssemblyInfoInputs.cache
+C:\Users\elise\git\LesBases\ArticleLocation3\obj\Debug\net9.0\ArticleLocation3.AssemblyInfo.cs
+C:\Users\elise\git\LesBases\ArticleLocation3\obj\Debug\net9.0\ArticleLocation3.csproj.CoreCompileInputs.cache
