@@ -1,11 +1,23 @@
-﻿class Program
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.Json;
+using System.IO;
+
+class Program
 {
     static void Main(string[] args)
     {
-        Article[] articles = new Article[3];
+        /*Article[] articles = new Article[3];
         articles[0] = new Article("Pomme", 4.50, 250, Article.Type.Alimentaire);
         articles[1] = new Article("Gomme", 10, 500, Article.Type.Loisir);
-        articles[2] = new Article("T-shirt", 2.75, 60, Article.Type.Habillement);
+        articles[2] = new Article("T-shirt", 2.75, 60, Article.Type.Habillement);*/
+
+        List<Article> articles = new List<Article> {
+        new Article("Pomme", 4.50, 250, Article.Type.Alimentaire),
+        new Article("Gomme", 10, 500, Article.Type.Loisir),
+        new Article("T-shirt", 2.75, 60, Article.Type.Habillement)
+        };
 
         // Analyse : Requêtes LINQ de base
         var alimentaires = articles.Where(a => a.type == Article.Type.Alimentaire).ToList();

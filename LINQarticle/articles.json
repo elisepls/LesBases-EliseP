@@ -1,0 +1,20 @@
+[
+  {
+    "nom": "Pomme",
+    "prix": 4.5,
+    "quantite": 250,
+    "type": 0
+  },
+  {
+    "nom": "Gomme",
+    "prix": 10,
+    "quantite": 500,
+    "type": 3
+  },
+  {
+    "nom": "T-shirt",
+    "prix": 2.75,
+    "quantite": 60,
+    "type": 2
+  }
+]

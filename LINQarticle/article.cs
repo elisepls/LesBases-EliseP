@@ -1,3 +1,4 @@
+
 public interface IRentable
 {
     double CalculateRent();

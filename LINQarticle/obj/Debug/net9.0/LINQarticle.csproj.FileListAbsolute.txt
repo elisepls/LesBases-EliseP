@@ -3,3 +3,13 @@ C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.AssemblyInf
 C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.AssemblyInfo.cs
 C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.csproj.CoreCompileInputs.cache
 C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.sourcelink.json
+C:\Users\elise\git\LesBases\LINQarticle\bin\Debug\net9.0\LINQarticle.exe
+C:\Users\elise\git\LesBases\LINQarticle\bin\Debug\net9.0\LINQarticle.deps.json
+C:\Users\elise\git\LesBases\LINQarticle\bin\Debug\net9.0\LINQarticle.runtimeconfig.json
+C:\Users\elise\git\LesBases\LINQarticle\bin\Debug\net9.0\LINQarticle.dll
+C:\Users\elise\git\LesBases\LINQarticle\bin\Debug\net9.0\LINQarticle.pdb
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.dll
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\refint\LINQarticle.dll
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.pdb
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\LINQarticle.genruntimeconfig.cache
+C:\Users\elise\git\LesBases\LINQarticle\obj\Debug\net9.0\ref\LINQarticle.dll
